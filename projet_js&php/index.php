@@ -37,7 +37,7 @@ require_once 'include/config.php';
                 <li><a href="produits.php">Nos produits</a></li>
                 <li><a href="#news">Blog</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="admin/login.php" style="color: #7b2cbf;">Administration</a></li>
+                
             </ul>
             <div class="logo">
                 <img src="images/logo.png" width="170" height="60" alt="NaturElle">
